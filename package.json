@@ -1,0 +1,14 @@
+{
+  "name": "braindump",
+  "version": "1.0.0",
+  "description": "brain dump sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
